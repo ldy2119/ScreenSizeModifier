@@ -71,6 +71,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NewFolder1\HotKeyManager.cs" />
     <Compile Include="NewFolder1\ScreenChanger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
